@@ -73,7 +73,7 @@ The model integrates multiple algorithms including SVM, KNN, XGBoost, LightGBM, 
 * F1-Score
 * Mean Squared Error (MSE)
 
-These metrics help evaluate classification performance, especially for imbalanced datasets. ([GitHub Docs][1])
+These metrics help evaluate classification performance, especially for imbalanced datasets. 
 
 ---
 
